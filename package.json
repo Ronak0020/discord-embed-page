@@ -1,5 +1,5 @@
 {
-  "name": "discord-embed-page",
+  "name": "discord-embed-pages",
   "version": "1.0.0",
   "description": "An easy to use discord.js package to create pages in your embeds",
   "main": "index.js",

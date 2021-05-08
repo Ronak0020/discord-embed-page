@@ -1,4 +1,4 @@
-# Discord Embed Page
+# Discord Embed Pages
 An easy to use package to create embed pages easily for your discord bot embeds.
 
 ## Example
